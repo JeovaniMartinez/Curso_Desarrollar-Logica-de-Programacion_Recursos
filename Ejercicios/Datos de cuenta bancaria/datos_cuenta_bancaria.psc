@@ -21,7 +21,7 @@ Algoritmo datos_cuenta_bancaria
 	Escribir "**** CONFIRMACIÓN DE APERTURA DE CUENTA ****"
 	Escribir "Número de cuenta: ", numeroCuenta
 	Escribir "Titular: ", Mayusculas(nombre + " " + apellido)
-	Escribir "Saldo inicial de apertura: ", saldoInicial
+	Escribir "Saldo inicial de apertura: $", saldoInicial
 	Escribir "Tiene derecho a crédito: ", tieneDerechoCredito
 	Escribir "*********************************************"
 	
