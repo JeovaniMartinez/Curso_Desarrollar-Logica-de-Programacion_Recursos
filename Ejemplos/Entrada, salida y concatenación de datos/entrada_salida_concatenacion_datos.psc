@@ -19,7 +19,8 @@ Algoritmo entrada_salida_concatenacion_datos
 	
 	Escribir ""
 	Escribir "***** Datos del Alumno *****"
-	Escribir "Nombre Completo: ", nombre, " ", apellidoPaterno, " ", apellidoMaterno
+	nombreCompleto = nombre + " " + apellidoPaterno + " " + apellidoMaterno
+	Escribir "Nombre Completo: ", Mayusculas(nombreCompleto)
 	Escribir "Fecha de Nacimiento: ", diaNacimiento, "/", mesNacimiento, "/", anioNacimiento
 	
 FinAlgoritmo
