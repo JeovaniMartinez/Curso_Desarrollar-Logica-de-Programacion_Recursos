@@ -26,4 +26,9 @@ Algoritmo reglas_nombrar_variables
 	Definir anioNacimiento Como Entero
 	Definir numeroLicencia Como Entero
 	
+	// ** CONSTANTES **
+	// Recomendado
+	Definir VALOR_PI Como Real
+	VALOR_PI = 3.1416
+	
 FinAlgoritmo
