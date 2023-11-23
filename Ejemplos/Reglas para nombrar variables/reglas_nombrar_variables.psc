@@ -4,9 +4,11 @@ Algoritmo reglas_nombrar_variables
 	// No recomendado
 	Definir n Como Cadena
 	Definir nom Como Cadena
+	Definir may Como Logico
 	// Recomendado
 	Definir nombre Como Cadena
 	Definir nombrePersona Como Cadena
+	Definir esMayorEdad Como Logico
 	
 	// ** USAR UN ESTILO DE ESCRITURA **
 	// No recomendado
