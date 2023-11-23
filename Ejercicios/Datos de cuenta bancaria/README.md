@@ -5,7 +5,7 @@ datos como se muestra en el ejemplo.
 
 ---
 
-Ejemplo de datos de entrada:
+> **Ejemplo de datos de entrada**
 
 ```
 Ingresa los datos de la nueva cuenta bancaria
@@ -21,7 +21,9 @@ Saldo de apertura:
 > 1
 ```
 
-Ejemplo de datos de salida:
+---
+
+> **Ejemplo de datos de salida**
 
 ```
 *********************************************
@@ -32,3 +34,5 @@ Saldo inicial de apertura: $12000
 Tiene derecho a crédito: VERDADERO
 ********************************************
 ```
+
+---
