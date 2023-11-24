@@ -8,7 +8,7 @@ para el viaje, así como el costo total asociado a esos litros.
 
 ---
 
-> **Ejemplo 1**
+> **Ejemplo**
 
 ```
 *** Costo de recorrido ***
