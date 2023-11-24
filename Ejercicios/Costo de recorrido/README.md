@@ -1,0 +1,1 @@
+﻿# Costo de recorrido

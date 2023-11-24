@@ -1,0 +1,3 @@
+Algoritmo ingredientes_receta_galletas
+	
+FinAlgoritmo
