@@ -8,7 +8,7 @@ Algoritmo calculadora_propinas
 	Escribir "Ingresa el porcentaje de propina (entre 0 y 100):"
 	Leer porcentajePropina
 	
-	// Se realizan los cálculo
+	// Se realizan los cálculos
 	cantidadPropina = (totalCuenta / 100) * porcentajePropina
 	totalFinal = totalCuenta + cantidadPropina
 	
