@@ -10,13 +10,31 @@ el total de la cuenta, la cantidad de propina correspondiente y el total final, 
 > **Ejemplo 1**
 
 ```
+*** Calculadora de propinas ***
+Ingresa el total de la cuenta:
+> 1580
+Ingresa el porcentaje de propina (entre 0 y 100):
+> 15
+*** RESULTADO ***
+Total de la cuenta: $1580
+Cantidad de propina: $237 (15%)
+Total final (incluyendo propina): $1817
 ```
 
 ---
 
-> **Ejemplo 1**
+> **Ejemplo 2**
 
 ```
+*** Calculadora de propinas ***
+Ingresa el total de la cuenta:
+> 870.50
+Ingresa el porcentaje de propina (entre 0 y 100):
+> 20
+*** RESULTADO ***
+Total de la cuenta: $870.5
+Cantidad de propina: $174.1 (20%)
+Total final (incluyendo propina): $1044.6
 ```
 
 ---
