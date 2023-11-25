@@ -1,12 +1,12 @@
 Algoritmo ingredientes_receta_galletas
 	
 	// Se define la cantidad de ingredientes requeridos para 1 galleta
-	CANTIDAD_HUEVOS_1G = 0.17
-	GRAMOS_HARINA_1G = 35
-	MILILITROS_VAINILLA_1G = 0.41
-	GRAMOS_POLVO_HORNEAR_1G = 0.40
-	GRAMOS_MANTEQUILLA_1G = 8.3
-	GRAMOS_AZUCAR_1G = 17
+	CANTIDAD_HUEVOS_1G = 2 / 12
+	GRAMOS_HARINA_1G = 400 / 12
+	MILILITROS_VAINILLA_1G = 5 / 12
+	GRAMOS_POLVO_HORNEAR_1G = 5 / 12
+	GRAMOS_MANTEQUILLA_1G = 100 / 12
+	GRAMOS_AZUCAR_1G = 200 / 12
 	
 	Escribir "*** Ingredientes para receta de galletas ***"
 	
