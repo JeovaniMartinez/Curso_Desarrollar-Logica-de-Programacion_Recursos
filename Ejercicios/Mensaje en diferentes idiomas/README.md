@@ -42,3 +42,16 @@ Hola, ¿cómo estás?
 ```
 
 ---
+
+---
+
+> **Ejemplo 4**
+
+```
+*** Mensaje en diferentes idiomas ***
+Ingresa el idioma en el que quieres mostrar el mensaje (es, en, fr):
+> ru
+Idioma no soportado
+```
+
+---
