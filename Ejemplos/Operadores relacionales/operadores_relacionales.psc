@@ -34,6 +34,6 @@ Algoritmo operadores_relacionales
 	Escribir calificacionAlumno3 < calificacionAlumno4
 	
 	// Menor o igual que <=
-	Escribir calificacionAlumno3 <= calificacionAlumno4
+	Escribir calificacionAlumno3 <= 70
 	
 FinAlgoritmo
