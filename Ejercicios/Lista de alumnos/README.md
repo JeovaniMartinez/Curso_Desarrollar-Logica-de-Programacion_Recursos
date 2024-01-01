@@ -31,9 +31,9 @@ en ese promedio, teniendo en cuenta que la calificación mínima aprobatoria es 
 
 ```
 *** Lista de alumnos ***
-Javier Flores - Promedio: 75 - Aprobado
-Raquel Romero - Promedio: 76 - Aprobado
-Natalia Soto - Promedio: 52.6666666667 - Reprobado
+Javier Flores - Promedio: 75 - Aprobado(a)
+Raquel Romero - Promedio: 76 - Aprobado(a)
+Natalia Soto - Promedio: 52.6666666667 - Reprobado(a)
 ```
 
 ---
