@@ -1,4 +1,4 @@
-# Retos
+# Ejercicios
 
 > [Datos de cuenta bancaria](Datos%20de%20cuenta%20bancaria)
 
