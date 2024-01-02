@@ -21,10 +21,12 @@ Algoritmo calcular_edades
 	listaPersonas[4,0] = "Karla Paredes"
 	listaPersonas[4,1] = "1950"
 	
-	Escribir listaPersonas[0,0], " - ", anioActual - ConvertirANumero(listaPersonas[0,1]), " años"
-	Escribir listaPersonas[1,0], " - ", anioActual - ConvertirANumero(listaPersonas[1,1]), " años"
-	Escribir listaPersonas[2,0], " - ", anioActual - ConvertirANumero(listaPersonas[2,1]), " años"
-	Escribir listaPersonas[3,0], " - ", anioActual - ConvertirANumero(listaPersonas[3,1]), " años"
-	Escribir listaPersonas[4,0], " - ", anioActual - ConvertirANumero(listaPersonas[4,1]), " años"
+	Escribir "-- ", anioActual, " --"
+	
+	Escribir listaPersonas[0,0], " - ", listaPersonas[0,1], " - ", anioActual - ConvertirANumero(listaPersonas[0,1]), " años"
+	Escribir listaPersonas[1,0], " - ", listaPersonas[1,1], " - ", anioActual - ConvertirANumero(listaPersonas[1,1]), " años"
+	Escribir listaPersonas[2,0], " - ", listaPersonas[2,1], " - ", anioActual - ConvertirANumero(listaPersonas[2,1]), " años"
+	Escribir listaPersonas[3,0], " - ", listaPersonas[3,1], " - ", anioActual - ConvertirANumero(listaPersonas[3,1]), " años"
+	Escribir listaPersonas[4,0], " - ", listaPersonas[4,1], " - ", anioActual - ConvertirANumero(listaPersonas[4,1]), " años"
 	
 FinAlgoritmo

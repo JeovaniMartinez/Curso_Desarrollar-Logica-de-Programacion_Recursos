@@ -6,7 +6,7 @@ Teniendo en cuenta, y utilizando la siguiente línea de pseudocódigo que asigna
 anioActual = ConvertirANumero(SubCadena(ConvertirATexto(FechaActual()),0,3))
 ```
 
-Escribir un algoritmo en pseudocódigo que almacene la siguiente información de personas en una matriz, luego calcular y mostrar la edad de cada persona.
+Escribir un algoritmo en pseudocódigo que almacene la siguiente información de personas en una matriz, luego calcular y mostrar los datos y la edad de cada persona.
 
 | Nombre                     | Año de Nacimiento |
 |----------------------------|-------------------|
@@ -22,11 +22,12 @@ Escribir un algoritmo en pseudocódigo que almacene la siguiente información de
 
 ```
 *** Calcular edades ***
-Gabriela Guzmán - 44 años
-Ángel Ochoa - 22 años
-Ernesto Peña - 63 años
-Ricardo Nava - 68 años
-Karla Paredes - 74 años
+-- 2024 --
+Gabriela Guzmán - 1980 - 44 años
+Ángel Ochoa - 2002 - 22 años
+Ernesto Peña - 1961 - 63 años
+Ricardo Nava - 1956 - 68 años
+Karla Paredes - 1950 - 74 años
 ```
 
 ---
