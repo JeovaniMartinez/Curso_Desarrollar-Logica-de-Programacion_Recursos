@@ -25,3 +25,5 @@
 > [Descuento en tienda](Descuento%20en%20tienda)
 
 > [Lista de alumnos](Lista%20de%20alumnos)
+
+> [Calcular edades](Calcular%20edades)
