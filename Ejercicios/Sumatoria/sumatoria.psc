@@ -8,7 +8,7 @@ Algoritmo sumatoria
 	
 	resultado = 0
 	
-	Mientras numeroIngresado <> 0 Hacer
+	Mientras numeroIngresado != 0 Hacer
 		resultado = resultado + numeroIngresado
 		Leer numeroIngresado
 	Fin Mientras
