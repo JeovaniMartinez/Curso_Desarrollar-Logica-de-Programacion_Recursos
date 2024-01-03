@@ -27,3 +27,9 @@
 > [Lista de alumnos](Lista%20de%20alumnos)
 
 > [Calcular edades](Calcular%20edades)
+
+> [Contador regresivo](Contador%20regresivo)
+
+> [Sumatoria](Sumatoria)
+
+> [Tablas de multiplicar](Tablas%20de%20multiplicar)
