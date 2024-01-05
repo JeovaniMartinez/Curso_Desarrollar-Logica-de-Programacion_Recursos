@@ -1,6 +1,6 @@
 ﻿# Factorial
 
-Desarrollar un programa para calcular el factorial de un número.
+Utilizando cualquier ciclo, desarrollar un programa para calcular el factorial de un número.
 
 ---
 
