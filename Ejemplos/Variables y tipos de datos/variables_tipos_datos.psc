@@ -4,7 +4,7 @@ Algoritmo variables_tipos_datos
 	Definir nombre Como Caracteres
 	Definir apellido Como Cadena
 	
-	nombre = 'Antonio'
+	nombre = "Antonio"
 	apellido = "García"
 	
 	Definir direccion, ciudad, pais Como Cadenas
