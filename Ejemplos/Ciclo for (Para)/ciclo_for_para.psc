@@ -1,30 +1,30 @@
 Algoritmo ciclo_for_para
 	
-	Para contador<-0 Hasta 10 Con Paso 1 Hacer
+	Para contador = 0 Hasta 10 Con Paso 1 Hacer
 		Escribir contador
 	Fin Para
 	
 	Escribir "----------------------------------------------"
 	
-	Para contador<-0 Hasta 10 Con Paso 2 Hacer
+	Para contador = 0 Hasta 10 Con Paso 2 Hacer
 		Escribir contador
 	Fin Para
 	
 	Escribir "----------------------------------------------"
 	
-	Para contador<-0 Hasta 10 Con Paso 5 Hacer
+	Para contador = 0 Hasta 10 Con Paso 5 Hacer
 		Escribir contador
 	Fin Para
 	
 	Escribir "----------------------------------------------"
 	
-	Para contador<-100 Hasta 50 Con Paso -1 Hacer
+	Para contador = 100 Hasta 50 Con Paso -1 Hacer
 		Escribir contador
 	Fin Para
 	
 	Escribir "----------------------------------------------"
 	
-	Para contador<-100 Hasta 50 Con Paso -5 Hacer
+	Para contador = 100 Hasta 50 Con Paso -5 Hacer
 		Escribir contador
 	Fin Para
 	
@@ -43,7 +43,7 @@ Algoritmo ciclo_for_para
 	personas[8] = "Lorena Sosa"
 	personas[9] = "Karla Paredes"
 	
-	Para i<-0 Hasta 9 Con Paso 1 Hacer
+	Para i = 0 Hasta 9 Con Paso 1 Hacer
 		Escribir personas[i]
 	Fin Para
 	
