@@ -63,7 +63,7 @@ Ingresa la palabra que debe ser adivinada:
 Ingresa las pistas para ayudar a adivinar la palabra:
 > Es una forma de comunicarse entre dos personas
 Indica el número de intentos permitidos para adivinar la palabra:
-> 3
+> 5
 Presiona cualquier tecla para comenzar
 ```
 
