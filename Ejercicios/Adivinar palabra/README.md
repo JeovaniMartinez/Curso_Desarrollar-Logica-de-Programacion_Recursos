@@ -1,6 +1,6 @@
 ﻿# Adivinar palabra
 
-Elabora un juego para dos jugadores utilizando el ciclo Repetir...Mientras, tomando en cuenta lo siguiente:
+Elaborar un juego para adivinar palabras, que involucre a dos jugadores y utilizando el ciclo Repetir...Mientras, tomando en cuenta lo siguiente:
 
 `Jugador 1`
 - Debe ingresar la palabra que el jugador 2 va a intentar adivinar, así como un texto con pistas y el número de intentos permitidos para adivinar la palabra.
