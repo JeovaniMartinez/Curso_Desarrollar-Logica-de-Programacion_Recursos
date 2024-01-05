@@ -10,7 +10,7 @@ Algoritmo operadores_relacionales
 	nombresSonIguales = nombrePersona1 == nombrePersona2
 	Escribir nombresSonIguales
 	
-	// Desigualdad !=
+	// Desigualdad != o <>
 	edadPersona3 = 25
 	edadPersona4 = 30
 	Escribir edadPersona3 <> edadPersona4
