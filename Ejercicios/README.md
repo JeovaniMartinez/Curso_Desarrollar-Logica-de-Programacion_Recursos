@@ -33,3 +33,9 @@
 > [Sumatoria](Sumatoria)
 
 > [Tablas de multiplicar](Tablas%20de%20multiplicar)
+
+> [Adivinar clave](Adivinar%20clave)
+
+> [Factorial](Factorial)
+
+> [Buscar datos en matriz](Buscar%20datos%20en%20matriz)
