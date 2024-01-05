@@ -48,7 +48,7 @@ Algoritmo adivinar_palabra
 		
 		Escribir ""
 		
-	Mientras Que palabraIngresada <> palabraParaAdivinar Y intentos < intentosPermitidos
+	Mientras Que palabraIngresada != palabraParaAdivinar Y intentos < intentosPermitidos
 	
 	Si palabraAdivinada == Falso Entonces
 		Escribir "Suerte para la próxima, la palabra era: ", palabraParaAdivinar
