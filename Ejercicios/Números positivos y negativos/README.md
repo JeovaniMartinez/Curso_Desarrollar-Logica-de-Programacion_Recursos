@@ -26,8 +26,6 @@ El número ingresado es NEGATIVO
 
 ---
 
----
-
 > **Ejemplo 3**
 
 ```

@@ -43,8 +43,6 @@ Hola, ¿cómo estás?
 
 ---
 
----
-
 > **Ejemplo 4**
 
 ```

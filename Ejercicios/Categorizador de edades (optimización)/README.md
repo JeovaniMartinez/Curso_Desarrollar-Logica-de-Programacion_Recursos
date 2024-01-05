@@ -31,8 +31,6 @@ Edad inválida
 
 ---
 
----
-
 > **Ejemplo 3**
 
 ```
