@@ -1,6 +1,6 @@
-﻿# Adivinar clave
+﻿# Adivinar palabra
 
-Adivinar clave
+Adivinar palabra
 
 ---
 

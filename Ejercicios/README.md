@@ -34,7 +34,7 @@
 
 > [Tablas de multiplicar](Tablas%20de%20multiplicar)
 
-> [Adivinar clave](Adivinar%20clave)
+> [Adivinar palabra](Adivinar%20palabra)
 
 > [Factorial](Factorial)
 
