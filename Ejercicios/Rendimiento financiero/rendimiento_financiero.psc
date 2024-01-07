@@ -11,21 +11,21 @@ Algoritmo rendimiento_financiero
 	Escribir "Indica el rendimiento anual en porcentaje:"
 	Leer rendimientoAnualPorcentaje
 	
+	capitalAcumulado = montoInversion // Valor inicial
+	
 	Para anio = anioInicio Hasta anioFin Con Paso 1 Hacer
 		Escribir ""
 		
 		Escribir "------------ ", anio, " ------------"
 		
-		Escribir "Monto invertido: $", montoInversion
+		Escribir "Monto invertido: $", capitalAcumulado
 		
-		rendimiento = (montoInversion / 100) * rendimientoAnualPorcentaje
+		rendimiento = (capitalAcumulado / 100) * rendimientoAnualPorcentaje
 		Escribir "Rendimiento: $", rendimiento, " (", rendimientoAnualPorcentaje, "%)" 
 		
-		// Se actualiza el monto de la inversión, ya que para el siguiente periodo se va a invertir ya incluyendo el rendimiento
-		montoInversion = montoInversion + rendimiento
+		capitalAcumulado = capitalAcumulado + rendimiento
 		
-		// El capital acumulado es lo mismo que el monto de la inversión ya habiendo sumado el rendimiento
-		Escribir "Capital acumulado: $", montoInversion
+		Escribir "Capital acumulado: $", capitalAcumulado
 		
 		// Se incrementa 1% para cada año
 		rendimientoAnualPorcentaje = rendimientoAnualPorcentaje + 1
@@ -35,6 +35,6 @@ Algoritmo rendimiento_financiero
 	Escribir ""
 	Escribir "-------------------------------"
 	
-	Escribir "Capital Final: $", montoInversion
+	Escribir "Capital Final: $", capitalAcumulado
 	
 FinAlgoritmo
