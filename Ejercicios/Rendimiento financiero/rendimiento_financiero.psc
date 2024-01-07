@@ -37,5 +37,4 @@ Algoritmo rendimiento_financiero
 	
 	Escribir "Capital Final: $", montoInversion
 	
-	
 FinAlgoritmo
