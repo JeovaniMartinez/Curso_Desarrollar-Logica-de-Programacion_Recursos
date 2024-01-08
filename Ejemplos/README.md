@@ -33,3 +33,5 @@
 > [Ciclo for (Para)](Ciclo%20for%20%28Para%29)
 
 > [Ciclos anidados](Ciclos%20anidados)
+
+> [Funciones](Funciones)
