@@ -43,3 +43,5 @@
 > [Repetir mensaje](Repetir%20mensaje)
 
 > [Rendimiento financiero](Rendimiento%20financiero)
+
+> [Tabla de multiplicar completa](Tabla%20de%20multiplicar%20completa)
