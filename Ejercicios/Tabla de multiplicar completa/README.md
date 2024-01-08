@@ -1,6 +1,6 @@
 ﻿# Tabla de multiplicar completa
 
-Usando ciclos anidados, desarrollar un programa que muestre la tabla de multiplicar completa como se muestra en el ejemplo.
+Usando ciclos anidados, desarrollar un programa que muestre la tabla de multiplicar completa (del 1 al 10) como se muestra en el ejemplo.
 
 ---
 
