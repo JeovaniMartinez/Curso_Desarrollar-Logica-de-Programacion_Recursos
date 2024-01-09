@@ -6,6 +6,6 @@ Reloj
 
 > **Ejemplo**
 
-Ver video de ejemplo
+> Ver video de ejemplo
 
 ---
