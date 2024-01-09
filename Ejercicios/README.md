@@ -47,3 +47,5 @@
 > [Tabla de multiplicar completa](Tabla%20de%20multiplicar%20completa)
 
 > [Conversor de temperatura](Conversor%20de%20temperatura)
+
+> [Máximo y mínimo](M%C3%A1ximo%20y%20m%C3%ADnimo)
