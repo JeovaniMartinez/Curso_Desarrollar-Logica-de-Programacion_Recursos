@@ -1,6 +1,6 @@
-﻿# Máximo y mínimo
+﻿# Mínimo y máximo
 
-Máximo y mínimo
+Mínimo y máximo
 
 ---
 

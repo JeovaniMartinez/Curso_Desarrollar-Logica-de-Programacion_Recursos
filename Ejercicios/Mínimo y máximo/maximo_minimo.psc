@@ -1,4 +1,4 @@
-Algoritmo maximo_minimo
+Algoritmo minimo_maximo
 	
 	Escribir "*** Máximo y mínimo ***"
 
