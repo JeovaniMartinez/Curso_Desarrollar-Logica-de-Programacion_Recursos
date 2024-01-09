@@ -37,3 +37,5 @@
 > [Funciones](Funciones)
 
 > [Manejo de excepciones y errores](Manejo%20de%20excepciones%20y%20errores)
+
+> [Funciones de PSeInt](Funciones%20de%20PSeInt)
