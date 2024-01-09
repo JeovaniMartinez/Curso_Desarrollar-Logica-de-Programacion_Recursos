@@ -35,3 +35,5 @@
 > [Ciclos anidados](Ciclos%20anidados)
 
 > [Funciones](Funciones)
+
+> [Manejo de excepciones y errores](Manejo%20de%20excepciones%20y%20errores)
