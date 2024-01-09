@@ -1,10 +1,5 @@
 Algoritmo funciones_pseint
 
-	// Valor absoluto
-	
-	valor = -5
-	Escribir abs(valor)
-	
 	// Longitud
 	
 	mensaje = "Hola"
