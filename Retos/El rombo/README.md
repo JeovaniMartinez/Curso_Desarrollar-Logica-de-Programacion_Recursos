@@ -1,6 +1,6 @@
-﻿# El diamante
+﻿# El rombo
 
-El diamante
+El rombo
 
 ---
 

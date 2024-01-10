@@ -1,8 +1,8 @@
-Algoritmo diamante
+Algoritmo rombo
 	
-	Escribir "*** El diamante ***"
+	Escribir "*** El rombo ***"
 	
-	Escribir "Indica la altura del diamante:"
+	Escribir "Indica la altura del rombo:"
 	Leer altura
 	
 	Si altura < 3 Entonces
@@ -10,7 +10,7 @@ Algoritmo diamante
 	SiNo
 		Si altura % 2 <> 0 Entonces
 			Limpiar Pantalla
-			dibujarDiamante(altura)
+			dibujarRombo(altura)
 		SiNo
 			Escribir "El valor de la altura debe ser un número impar"
 		Fin Si
@@ -18,6 +18,6 @@ Algoritmo diamante
 	
 FinAlgoritmo
 
-Funcion dibujarDiamante (altura)
+Funcion dibujarRombo (altura)
 	Escribir altura
 Fin Funcion
