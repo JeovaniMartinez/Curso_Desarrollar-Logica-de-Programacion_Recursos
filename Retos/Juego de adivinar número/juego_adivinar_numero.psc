@@ -29,7 +29,7 @@ Algoritmo juego_adivinar_numero
 			Escribir "Demasiado alto, te quedan ", intentosRestantes, " intento(s)"
 		Fin Si
 		
-	Mientras Que numeroIngresado <> numeroSecreto Y intentosRestantes > 0
+	Mientras Que numeroIngresado != numeroSecreto Y intentosRestantes > 0
 	
 	Escribir ""
 	
