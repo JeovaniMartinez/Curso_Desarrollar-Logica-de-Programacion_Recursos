@@ -1,10 +1,10 @@
 ﻿# Costo de recorrido
 
 Manuel, un transportista que realiza viajes a distintos destinos turísticos, busca simplificar el cálculo de gastos 
-de gasolina para sus trayectos. Para ello, necesita un programa que le permita ingresar tres valores: el rendimiento 
-del vehículo en kilómetros por litro de gasolina, el precio del litro de gasolina y la distancia total del trayecto 
-en kilómetros. El programa deberá proporcionar a Manuel un estimado de la cantidad de litros de gasolina requeridos 
-para el viaje, así como el costo total asociado a esos litros.
+de gasolina para sus trayectos. Para ello, necesita un programa o algoritmo en pseudocódigo que le permita ingresar 
+tres valores: el rendimiento del vehículo en kilómetros por litro de gasolina, el precio del litro de gasolina y la 
+distancia total del trayecto en kilómetros. El programa deberá proporcionar a Manuel un estimado de la cantidad de 
+litros de gasolina requeridos para el viaje, así como el costo total asociado a esos litros.
 
 ---
 
