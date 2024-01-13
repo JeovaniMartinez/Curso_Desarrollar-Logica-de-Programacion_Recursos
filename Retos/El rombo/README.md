@@ -1,6 +1,6 @@
 ﻿# El rombo
 
-Escribir un algoritmo en pseudocódigo programa que dibuje un rombo en pantalla mediante asteriscos. El usuario debe 
+Escribir un algoritmo en pseudocódigo que dibuje un rombo en pantalla mediante asteriscos. El usuario debe 
 ingresar la altura deseada del rombo, la cual debe ser forzosamente un número impar igual o mayor que 3.
 
 ---

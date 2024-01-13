@@ -29,7 +29,7 @@ personas[9,1] = "1998KP7890"
 
 Escribir un algoritmo en pseudocódigo que facilite la búsqueda de una persona mediante su nombre en la matriz proporcionada. 
 En caso de que la persona no esté presente en la matriz, se mostrará un mensaje indicando que no se ha encontrado. 
-Por el contrario, si la persona se encuentra en la matriz, el programa mostrará su nombre, ID y la posición donde 
+Por el contrario, si la persona se encuentra en la matriz, se mostrará su nombre, ID y la posición donde 
 fue encontrada.
 
 ---

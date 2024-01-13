@@ -1,6 +1,6 @@
 ﻿# Contador regresivo
 
-Escribir un algoritmo en pseudocódigo o programa que solicite al usuario un número y realizar un contador regresivo desde ese número hasta cero (en segundos).
+Escribir un algoritmo en pseudocódigo o que solicite al usuario un número y realizar un contador regresivo desde ese número hasta cero (en segundos).
 
 ---
 
