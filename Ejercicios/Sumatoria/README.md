@@ -1,6 +1,6 @@
 ﻿# Sumatoria
 
-Desarrollar un programa que solicite al usuario una cantidad indefinida de números (que debe ingresar uno por uno) para sumarlos,
+Escribir un algoritmo en pseudocódigo que solicite al usuario una cantidad indefinida de números (que debe ingresar uno por uno) para sumarlos,
 en el momento en que el usuario ingrese cero, calcular la suma de todos los números y mostrar el resultado.
 
 ---

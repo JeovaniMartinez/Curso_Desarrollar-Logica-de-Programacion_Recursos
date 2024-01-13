@@ -22,7 +22,7 @@ calificacionesGeografia[1] = 82 // Raquel
 calificacionesGeografia[2] = 70 // Natalia
 ```
 
-Desarrollar un programa que calcule la calificación promedio de cada alumno, y determine si está aprobado o reprobado con base 
+Escribir un algoritmo en pseudocódigo que calcule la calificación promedio de cada alumno, y determine si está aprobado o reprobado con base 
 en ese promedio, teniendo en cuenta que la calificación mínima aprobatoria es de 60.
 
 ---

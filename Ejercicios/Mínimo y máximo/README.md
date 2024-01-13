@@ -1,7 +1,7 @@
 ﻿# Mínimo y máximo
 
-Desarrollar un programa que solicite al usuario una lista de números. Al finalizar y utilizando funciones, 
-determinar y mostrar cuál es el valor mínimo y el valor máximo de dicha lista.
+Escribir un algoritmo en pseudocódigo que solicite al usuario una lista de números. Al finalizar 
+y utilizando funciones, determinar y mostrar cuál es el valor mínimo y el valor máximo de dicha lista.
 
 ---
 

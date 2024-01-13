@@ -6,8 +6,8 @@ Con el objetivo de contribuir a la comunidad, Rogelio ofrece descuentos en el co
 y a estudiantes, siempre y cuando muestren una credencial que lo acredite. A las personas de la tercera edad les cobra solo el 50%, 
 mientras que a los estudiantes les aplica un descuento del 30%.
 
-Con base en la siguiente tabla que muestra las comunidades junto con sus respectivas abreviaturas y la tarifa para cada destino, 
-desarrollar un programa que solicite el nombre del pasajero, el tipo de pasajero (para ver si hay que aplicar algún descuento) y el destino (la abreviatura). 
+Con base en la siguiente tabla que muestra las comunidades junto con sus respectivas abreviaturas y la tarifa para cada destino,
+escribir un algoritmo en pseudocódigo que solicite el nombre del pasajero, el tipo de pasajero (para ver si hay que aplicar algún descuento) y el destino (la abreviatura). 
 Al finalizar, el programa deberá generar el boleto correspondiente para el pasajero, incluyendo el nombre de la empresa, el nombre del pasajero, el tipo de pasajero, 
 la ruta (origen y destino), la tarifa (subtotal), el descuento (si aplica) y el costo final del boleto.
 

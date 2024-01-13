@@ -1,7 +1,8 @@
 ﻿# Conversor de temperatura
 
-Desarrollar un programa que permita convertir grados Fahrenheit a grados Celsius y viceversa. Realizar las operaciones en funciones, 
-una para convertir Fahrenheit a Celsius y otra para convertir Celsius a Fahrenheit.
+Escribir un algoritmo en pseudocódigo que permita convertir grados Fahrenheit a grados Celsius y viceversa. 
+Realizar las operaciones en funciones, una para convertir Fahrenheit a Celsius y otra para convertir Celsius 
+a Fahrenheit.
 
 ---
 
