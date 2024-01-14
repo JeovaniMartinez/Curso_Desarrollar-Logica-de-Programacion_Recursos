@@ -92,4 +92,44 @@ Algoritmo generador_contrasenias
 	simbolos[18] = "<"
 	simbolos[19] = ">"
 	
+	Escribir "Ingresa la longitud de la contraseña: "
+	Leer longitudContrasenia
+	
+	Si longitudContrasenia >= 1 Entonces
+		
+		contraseniaGenerada = ""
+		
+		Para i = 1 Hasta longitudContrasenia Con Paso 1 Hacer
+			
+			arregloAUsar = azar(4)+1 // Entre 1 y 4
+			
+			Segun arregloAUsar Hacer
+				1:
+					// Minúsculas
+					indice = azar(26) // Entre 0 y 25
+					contraseniaGenerada = contraseniaGenerada + letrasMinusculas[indice]
+				2:
+					// Mayúsculas
+					indice = azar(26) // Entre 0 y 25
+					contraseniaGenerada = contraseniaGenerada + letrasMayusculas[indice]
+				3:
+					// Números
+					indice = azar(10) // Entre 0 y 9
+					contraseniaGenerada = contraseniaGenerada + numeros[indice]
+				4:
+					// Símbolos
+					indice = azar(20) // Entre 0 y 19
+					contraseniaGenerada = contraseniaGenerada + simbolos[indice]
+			Fin Segun
+			
+		Fin Para
+		
+		Escribir ""
+		Escribir contraseniaGenerada
+		Escribir ""
+		
+	SiNo
+		Escribir "La longitud debe ser igual o mayor que 1"
+	Fin Si
+	
 FinAlgoritmo
