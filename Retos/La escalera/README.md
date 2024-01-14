@@ -29,7 +29,7 @@ Cada escalón debe ser dibujado de la siguiente manera:
 
 > **Ejemplo 2**
 
-`Dato de entrada: 10`
+`Dato de entrada: -10`
 
 ```
 *****
