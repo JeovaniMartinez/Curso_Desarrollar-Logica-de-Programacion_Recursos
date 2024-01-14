@@ -1,6 +1,6 @@
 ﻿# Rendimiento financiero
 
-Escribir un algoritmo en pseudocódigo que calcule el rendimiento de una inversión siguiendo las reglas establecidas a continuación:
+Desarrollar un algoritmo en pseudocódigo que calcule el rendimiento de una inversión siguiendo las reglas establecidas a continuación:
 
 - Solicitar al usuario el año de inicio de la inversión, el año de finalización, el monto a invertir y el rendimiento anual en porcentaje.
 - Mostrar, para cada año, el monto invertido, el rendimiento (tanto en valor como en porcentaje) y el capital acumulado (que es el monto de 

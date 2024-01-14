@@ -1,6 +1,6 @@
 ﻿# Números positivos y negativos
 
-Escribir un algoritmo en pseudocódigo que determine si un número es positivo, negativo o es cero.
+Desarrollar un algoritmo en pseudocódigo que determine si un número es positivo, negativo o es cero.
 
 ---
 

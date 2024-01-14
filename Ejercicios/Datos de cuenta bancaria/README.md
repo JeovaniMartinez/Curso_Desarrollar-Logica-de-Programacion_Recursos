@@ -1,6 +1,6 @@
 # Datos de cuenta bancaria
 
-Escribir un algoritmo en pseudocódigo o programa que solicite al usuario datos para la apertura de una cuenta bancaria y, al final, mostrar los 
+Desarrollar un algoritmo en pseudocódigo o programa que solicite al usuario datos para la apertura de una cuenta bancaria y, al final, mostrar los 
 datos como se muestra en el ejemplo.
 
 ---

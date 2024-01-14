@@ -1,6 +1,6 @@
 ﻿# Número par o impar
 
-Escribir un algoritmo en pseudocódigo que determine si un número es par o impar.
+Desarrollar un algoritmo en pseudocódigo que determine si un número es par o impar.
 
 ---
 

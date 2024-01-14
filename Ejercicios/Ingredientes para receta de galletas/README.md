@@ -13,7 +13,7 @@ Si se necesitan los siguientes ingredientes para hacer 12 galletas:
 - 100 Gramos de mantequilla.
 - 200 Gramos de azúcar.
 
-Escribir un algoritmo en pseudocódigo que permita a Carmen ingresar la cantidad de galletas que desea preparar. 
+Desarrollar un algoritmo en pseudocódigo que permita a Carmen ingresar la cantidad de galletas que desea preparar. 
 Luego, mostrará las cantidades de ingredientes requeridas, redondeando los números decimales al entero más 
 cercano para facilitar la medición y preparación.
 

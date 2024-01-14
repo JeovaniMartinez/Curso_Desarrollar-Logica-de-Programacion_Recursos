@@ -1,6 +1,6 @@
 ﻿# Juego de adivinar número
 
-Escribir un algoritmo en pseudocódigo para un juego que permita al usuario intentar adivinar un número, 
+Desarrollar un algoritmo en pseudocódigo para un juego que permita al usuario intentar adivinar un número, 
 con base en las siguientes reglas:
 - El número de intentos debe ser aleatorio, y estar entre 5 y 20.
 - El número a adivinar debe ser aleatorio, entre 1 y 1000.

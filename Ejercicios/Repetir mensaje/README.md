@@ -1,6 +1,6 @@
 ﻿# Repetir mensaje
 
-Escribir un algoritmo en pseudocódigo que solicite al usuario un mensaje, las veces que quiere que se repita y mostrar ese mensaje las 
+Desarrollar un algoritmo en pseudocódigo que solicite al usuario un mensaje, las veces que quiere que se repita y mostrar ese mensaje las 
 veces indicadas. Validar que el mensaje no este vacío y que el número de repeticiones sea mayor que cero.
 
 ---

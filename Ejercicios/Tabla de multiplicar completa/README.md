@@ -1,6 +1,6 @@
 ﻿# Tabla de multiplicar completa
 
-Usando ciclos anidados, escribir un algoritmo en pseudocódigo que muestre la tabla de multiplicar 
+Usando ciclos anidados, desarrollar un algoritmo en pseudocódigo que muestre la tabla de multiplicar 
 completa (del 1 al 10) como se muestra en el ejemplo.
 
 ---

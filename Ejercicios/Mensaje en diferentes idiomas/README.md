@@ -1,6 +1,6 @@
 ﻿# Mensaje en diferentes idiomas
 
-Escribir un algoritmo en pseudocódigo que permita al usuario elegir el idioma en el que desea recibir un mensaje. 
+Desarrollar un algoritmo en pseudocódigo que permita al usuario elegir el idioma en el que desea recibir un mensaje. 
 Las opciones disponibles son: es (español), en (inglés) y fr (francés). Dependiendo de la opción seleccionada, 
 se mostrará el mensaje 'Hola, ¿cómo estás?' en el idioma correspondiente. Si se introduce una opción no válida, 
 se deberá indicar que el idioma no está soportado.

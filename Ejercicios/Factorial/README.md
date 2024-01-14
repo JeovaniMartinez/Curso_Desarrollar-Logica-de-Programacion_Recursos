@@ -1,6 +1,6 @@
 ﻿# Factorial
 
-Utilizando cualquier ciclo, escribir un algoritmo en pseudocódigo para calcular el factorial de un número.
+Utilizando cualquier ciclo, desarrollar un algoritmo en pseudocódigo para calcular el factorial de un número.
 
 ---
 

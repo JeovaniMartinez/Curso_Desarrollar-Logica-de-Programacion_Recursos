@@ -2,7 +2,7 @@
 
 Juan requiere un programa para clasificar edades y determinar si una persona es menor de edad, mayor de edad 
 o de la tercera edad. Considerando que la mayoría de edad se alcanza a los 18 años, la tercera edad comienza 
-a los 60 años y que la edad mínima y máxima válida es de 1 a 125 años respectivamente, escribir un algoritmo 
+a los 60 años y que la edad mínima y máxima válida es de 1 a 125 años respectivamente, desarrollar un algoritmo 
 en pseudocódigo que ayude a Juan en la categorización de una persona según su edad.
 
 ---

@@ -6,7 +6,7 @@ Teniendo en cuenta, y utilizando la siguiente línea de pseudocódigo que asigna
 anioActual = ConvertirANumero(SubCadena(ConvertirATexto(FechaActual()),0,3))
 ```
 
-Escribir un algoritmo en pseudocódigo que almacene la siguiente información de personas en una matriz, luego calcular y mostrar los datos y la edad de cada persona.
+Desarrollar un algoritmo en pseudocódigo que almacene la siguiente información de personas en una matriz, luego calcular y mostrar los datos y la edad de cada persona.
 
 | Nombre                     | Año de Nacimiento |
 |----------------------------|-------------------|

@@ -1,6 +1,6 @@
 ﻿# Tablas de multiplicar
 
-Escribir un algoritmo en pseudocódigo que solicite al usuario un número (validar que el número esté entre el 1 y el 10), y mostrar la tabla de multiplicar de dicho número.
+Desarrollar un algoritmo en pseudocódigo que solicite al usuario un número (validar que el número esté entre el 1 y el 10), y mostrar la tabla de multiplicar de dicho número.
 
 ---
 

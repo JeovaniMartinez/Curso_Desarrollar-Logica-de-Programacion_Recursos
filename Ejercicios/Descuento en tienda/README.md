@@ -1,6 +1,6 @@
 ﻿# Descuento en tienda
 
-Escribir un algoritmo en pseudocódigo para una tienda que solicite el subtotal a cobrar, la edad de la persona y el tipo de 
+Desarrollar un algoritmo en pseudocódigo para una tienda que solicite el subtotal a cobrar, la edad de la persona y el tipo de 
 membresía (regular o premium). Aplicar un descuento al subtotal y mostrar el total final, teniendo en cuenta que a las 
 personas de la tercera edad (60 años o más) con membresía regular se les descuenta el 15%, y si tienen membresía premium 
 el descuento es del 20%. Para los usuarios que no son de la tercera edad, el descuento aplicado es del 5% para la membresía 

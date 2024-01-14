@@ -1,6 +1,6 @@
 ﻿# Calculadora simple
 
-Escribir un algoritmo en pseudocódigo que solicite al usuario dos números, luego permitirle elegir una operación 
+Desarrollar un algoritmo en pseudocódigo que solicite al usuario dos números, luego permitirle elegir una operación 
 a realizar (suma, resta, multiplicación o división) y mostrarle el resultado según la operación seleccionada.
 
 ---
